@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Felipe Diaz Lopez - 342677
 autenticacion="1"
 
 while  [[ $autenticacion -eq "1" ]]; do
